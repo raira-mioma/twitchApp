@@ -62,3 +62,8 @@ a {
 	background-color: #f7c64c;
 }
 
+.stream-details {
+	float: right;
+	font-style: italic;
+	font-size: 16px;
+}
